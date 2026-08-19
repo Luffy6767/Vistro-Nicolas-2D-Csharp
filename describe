@@ -1,0 +1,15 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        string name = "Francis";        int age = 18;
+        int weight = 105;
+        double dec = 0;
+        bool True = true;
+
+        Console.Write($"Hello, my name is {name}, I am {age} years old. My weight is {weight}.{dec}, {True}.");
+        
+    }
+}
