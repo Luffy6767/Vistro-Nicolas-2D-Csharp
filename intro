@@ -1,0 +1,11 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        
+        Console.Write("Hello, my name is Francis Nicolas P. Vistro, I am 18 years old. I live in San Nicolas Minalin.");
+        
+    }
+}
